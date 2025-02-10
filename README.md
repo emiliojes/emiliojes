@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @emiliojes
-- 👀 I’m interested in Javascript, python y Bitcoins
-- 🌱 I’m currently learning Defi.
-- 📫 How to reach me emiliojes@gmail.com
+👋 Hi! I'm @emiliojes  
+🚀 Passionate about **JavaScript**, **Python**, and **Bitcoins**  
+📚 Currently improving my **JavaScript** skills  
+📩 Reach me at **emiliojes@gmail.com**  
 
 <!---
 emiliojes/emiliojes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
