@@ -1,5 +1,5 @@
 👋 Hi! I'm @emiliojes  
-🚀 Passionate about **JavaScript**, **Python**, and **Bitcoins**  
+🚀 Passionate about **JavaScript**, **Python**
 📚 Currently improving my **JavaScript** skills  
 📩 Reach me at **emiliojes@gmail.com**  
 
