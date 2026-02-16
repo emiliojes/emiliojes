@@ -1,13 +1,16 @@
-👋 Hi! I'm @emiliojes
+👋 Hi, I'm @emiliojes
+
 🚀 ICT Teacher | AI & Python Enthusiast  
-👓 Currently improving my AI skills  
+🧠 Passionate about technology, education, and innovation  
+📚 Currently improving my AI and automation skills  
+
+---
 
 ### 🌍 Connect with me
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Femilionunez.dev%2Frobots.txt)
+🌐 Website: https://emilionunez.dev  
+📧 Email: emiliojes@gmail.com
 
-🌐 Website: <https://emilionunez.dev>  
-📧 Email: <emiliojes@gmail.com>
 
 <!---
 emiliojes/emiliojes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
