@@ -34,8 +34,8 @@ Siempre abierto a colaborar en proyectos educativos, tecnológicos o de innovaci
 ---
 
 ### Mi Actividad reciente en GitHub
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### GitHub Stats
 [Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=emiliojes&show_icons=true&theme=radical)
