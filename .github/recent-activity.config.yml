@@ -1,0 +1,12 @@
+settings:
+  username: emiliojes
+  commit_msg: "⚡ Update README with recent activity"
+  max_lines: 5
+
+messages:
+  push: "⬆️ Pushed to {REPO}"
+  issues: "❗ Opened issue in {REPO}"
+  pull_request: "🔧 Opened PR in {REPO}"
+  release: "🚀 Released {REPO}"
+  fork: "🍴 Forked {REPO}"
+  star: "⭐ Starred {REPO}"
