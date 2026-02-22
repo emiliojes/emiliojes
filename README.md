@@ -35,14 +35,14 @@ Siempre abierto a colaborar en proyectos educativos, tecnológicos o de innovaci
 
 ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
-2. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
-3. ⬆️ Pushed to [emiliojes/supabaseemiliogram2](https://github.com/emiliojes/supabaseemiliogram2)<br>
-4. ✌️ Released [v0.1.0](https://github.com/emiliojes/ThirdRepo/releases/tag/v0.1.0) in [emiliojes/ThirdRepo](https://github.com/emiliojes/ThirdRepo)<br>
-5. ⬆️ Pushed to [emiliojes/ThirdRepo](https://github.com/emiliojes/ThirdRepo)<br>
+1. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
+2. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
+3. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
+4. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
+5. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 22nd, 2026, 10:29:46 PM
+Last Updated: Sunday, February 22nd, 2026, 11:30:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### GitHub Stats
