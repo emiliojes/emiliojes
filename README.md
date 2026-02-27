@@ -35,14 +35,14 @@ Siempre abierto a colaborar en proyectos educativos, tecnológicos o de innovaci
 
 ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
-2. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
-3. ⬆️ Pushed to [emiliojes/rescue-animal-panama](https://github.com/emiliojes/rescue-animal-panama)<br>
-4. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
-5. ⬆️ Pushed to [emiliojes/emiliojes.github.io](https://github.com/emiliojes/emiliojes.github.io)<br>
+1. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
+2. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
+3. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
+4. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
+5. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 27th, 2026, 6:52:20 PM
+Last Updated: Friday, February 27th, 2026, 7:36:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### GitHub Stats
