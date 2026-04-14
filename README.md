@@ -35,9 +35,12 @@ Siempre abierto a colaborar en proyectos educativos, tecnológicos o de innovaci
 
 ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed to [emiliojes/OxfordTrack](https://github.com/emiliojes/OxfordTrack)<br>
+2. ⬆️ Pushed to [emiliojes/OxfordTrack](https://github.com/emiliojes/OxfordTrack)<br>
+3. ⬆️ Pushed to [emiliojes/OxfordTrack](https://github.com/emiliojes/OxfordTrack)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 14th, 2026, 5:30:23 AM
+Last Updated: Tuesday, April 14th, 2026, 7:53:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### GitHub Stats
