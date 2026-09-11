@@ -36,11 +36,9 @@ Siempre abierto a colaborar en proyectos educativos, tecnológicos o de innovaci
 ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
-2. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
-3. ⬆️ Pushed to [emiliojes/oxford-smart-scheduler](https://github.com/emiliojes/oxford-smart-scheduler)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 11th, 2026, 2:54:32 PM
+Last Updated: Friday, September 11th, 2026, 5:37:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### GitHub Stats
